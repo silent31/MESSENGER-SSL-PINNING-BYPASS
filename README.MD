@@ -25,7 +25,7 @@
 📦 Package      : com.facebook.orca
 🏷️ Version      : 565.0.0.43.88
 🖥️ Architecture : ARM64-v8a
-⚙️ Module       : libcoldstart.so
+⚙️ Module       : 
 🔐 Security     : SSL Pinning Layer
 📡 Mode         : Network Research Lab
 ```
